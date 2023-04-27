@@ -26,9 +26,8 @@ https://discorddotcomui.netlify.app/
 
 ## Screenshots
 
-![]()
-![]()
-![]()
+![discorddotcomui netlify app_](https://user-images.githubusercontent.com/92782806/230606183-72c1f18e-ae2f-4de3-99c3-e485e5110830.png)
+
 
 
 ## Feedback
